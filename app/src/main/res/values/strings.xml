@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Packing</string>
+    <string name="No_sup_ble">手機不支援BLE設備</string>
+    <string name="No_sup_Bluetooth">手機不支援BL設備</string>
+</resources>
